@@ -10,5 +10,8 @@ These include the following
 - **Information Criterias** consisting of Akaike Information Criteria (AIC), Bayesian Information Criteria (BIC) and ICL. An implementation of the algorithms from Goutte C, Hansen LK, Liptrot MG, et al. Feature-space clustering for fMRI meta-analysis. Hum Brain Mapp. 2001 Jul;13(3):165–183.
 - **Prediction Strength**: An implementation of the algorithm from Tibshirani R, Walther G. Cluster validation by prediction strength. J Comput Graph Stat. 2005;14(3):511-528.
 
+# How to Use
+TBC...
+
 # License
 This projected is under MIT license.
